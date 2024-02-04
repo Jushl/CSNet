@@ -32,12 +32,9 @@ weights/
 
 &emsp;  ├── events/
 
-&emsp;  ├── ResNet50-B/
-
-&emsp;&emsp;&emsp; &emsp;&emsp;└── checkpoint0017.pth
 
 &emsp;  └── SNN-B/
 
-&emsp;&emsp;&emsp;&emsp;&emsp; └── checkpoint0017.pth
+&emsp;&emsp;&emsp;&emsp;&emsp; └── checkpoint0023.pth
 
 3.  Run detect.py and the prediction results in `weights/detect/`.
