@@ -22,7 +22,7 @@ Follow the instruction on  [https://pytorch.org/get-started/locally/](https://py
 `python setup.py build install`
 
 # Demo
-1. We have put our model checkpoints here[ResNet50: Goole Drive](https://drive.google.com/drive/folders/17XfzuNohhhjL6ZMfMy_WXA168xKTc0Ud?usp=drive_link),[SNN: Goole Drive](https://drive.google.com/drive/folders/12pt8sHhQyCwB5e37RbOgBfTksF69v35l?usp=drive_link)
+1. We have put our model checkpoints here[CSNN: Goole Drive]([https://drive.google.com/drive/folders/12pt8sHhQyCwB5e37RbOgBfTksF69v35l?usp=drive_link](https://drive.google.com/drive/folders/1aA_ufYrPv-JKKdcs1X3BM9ipfrZxB32C))
 
 2. Please download weights and organize them as following:
 
@@ -33,7 +33,7 @@ weights/
 &emsp;  ├── events/
 
 
-&emsp;  └── SNN-B/
+&emsp;  └── CSNN-B/
 
 &emsp;&emsp;&emsp;&emsp;&emsp; └── checkpoint0023.pth
 
